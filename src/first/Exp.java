@@ -1,3 +1,5 @@
+package first;
+
 public class Exp {
     private static double f(double x, double b) { // Задаём и находим функцию f(x)= ln(x)
         return Math.log(x) - b;

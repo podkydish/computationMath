@@ -1,3 +1,5 @@
+package first;
+
 public class Pi {
     private static double f(double x) { // Задаём и находим функцию f(x)= sin(x)
         return Math.sin(x);
